@@ -1,0 +1,15 @@
+{
+  "name": "date",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jsonfile": "^6.0.1",
+    "moment": "^2.26.0",
+    "random": "^2.2.0",
+    "simple-git": "^2.5.0"
+  }
+}
